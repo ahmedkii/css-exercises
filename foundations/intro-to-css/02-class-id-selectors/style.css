@@ -1,1 +1,16 @@
+.odd_numbered {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.line3{
+  font-size: 24px;
+}
 /* Add CSS Styling */
+#line2 {
+  color: blue;
+  font-size: 36px;
+}
+#line4 {
+  background-color: lightgreen;
+  font-weight: bold;
+}
